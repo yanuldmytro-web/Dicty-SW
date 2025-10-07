@@ -1,0 +1,5 @@
+{
+  "name": "Swedish Word Tester",
+  "description": "An application to help users learn new Swedish words with examples and tests, powered by AI.",
+  "requestFramePermissions": []
+}
